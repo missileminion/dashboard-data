@@ -1,6 +1,16 @@
 {
  "version": 1,
- "entries": [],
+ "entries": [
+  {
+   "id": 1792617121740,
+   "date": "2026-10-20",
+   "day": "Push",
+   "exercise": "Overhead cable triceps extension",
+   "weight": 35,
+   "reps": 7,
+   "sets": 3
+  }
+ ],
  "deleted": [
   1792616883341
  ]
