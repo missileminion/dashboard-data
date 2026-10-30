@@ -1,1 +1,1 @@
-i think it when i open the phone version it should hide terminal also move th
+i think it when i open the phone version it should hide terminal also remove the gith
