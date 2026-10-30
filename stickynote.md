@@ -1,1 +1,1 @@
-i think it when i open the p
+i think it when i open the phone version it shpuld
