@@ -1,1 +1,1 @@
-i think it when i open the phone version it shpuld
+i think it when i open the phone version it should be that I add 
