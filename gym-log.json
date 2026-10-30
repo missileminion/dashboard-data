@@ -81,6 +81,15 @@
    "weight": 100,
    "reps": 10,
    "sets": 3
+  },
+  {
+   "id": 1793328045211,
+   "date": "2026-10-29",
+   "day": "Pull",
+   "exercise": "Reverse pec deck",
+   "weight": 70,
+   "reps": 8,
+   "sets": 3
   }
  ],
  "deleted": [
