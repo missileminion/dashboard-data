@@ -1,1 +1,1 @@
-i think it when i open the phone version it should be that I 
+i think it when i open the phone version it should hide terminal also move
