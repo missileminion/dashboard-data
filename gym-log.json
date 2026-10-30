@@ -72,6 +72,15 @@
    "weight": 17.5,
    "reps": 8,
    "sets": 3
+  },
+  {
+   "id": 1793327773275,
+   "date": "2026-10-29",
+   "day": "Pull",
+   "exercise": "Lat pulldown",
+   "weight": 50,
+   "reps": 10,
+   "sets": 3
   }
  ],
  "deleted": [
