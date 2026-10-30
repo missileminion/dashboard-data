@@ -1,1 +1,1 @@
-i think it when i open the phone version it should hide terminal also move
+i think it when i open the phone version it should hide terminal also move the sticky note
