@@ -4,3 +4,4 @@ on pc terminal should be first page
 - [ ] go get double sided tape from walmart
 buy aperon
 buy snacks
+- [ ] get dr sasquach lipbalm today at 9am
