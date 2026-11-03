@@ -7,3 +7,7 @@
 ## Monday, 2 November 2026 · 3/5
 
 **23:51** It was okayyyy I got stuff done but I also didn't want to work on matlab which I had to :( but other than that I'm happy I was able to go to the gym
+
+## Tuesday, 3 November 2026 · 5/5
+
+**11:43** I love carol :)
