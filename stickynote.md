@@ -1,1 +1,1 @@
-heat form the sonos
+heat form the sonos ace covers
