@@ -13,3 +13,5 @@
 **11:43** I love carol :)
 
 **18:37** right now I'm kinda sleepy, I wish I could just have one extra day to get my bearings
+
+**19:19** history all
