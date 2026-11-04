@@ -15,3 +15,5 @@
 **18:37** right now I'm kinda sleepy, I wish I could just have one extra day to get my bearings
 
 **19:19** history all
+
+**19:56** im pretty happy with this page im making. debating if i should have it replace obsidian.
