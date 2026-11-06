@@ -23,3 +23,7 @@
 **23:02** it wasn't bad today, I feel slightly better about chapter 7 of matlab and I think the personal dashboard looks pretty damn good. Also, I was finally able to design something for the sonos ace (the little earphone covers) i'm excited to see how that turns out. What else, I had tacostand again, then had mash potatos and salmon at home so I ate pretty well toady. Dave told me that his ex girlfriend Kara messaged brandon asking about Dave's new girlfriend. I'm guessing she feels a bit hurt by that and is trying to gauge how far along they are. I feel pretty bad for Kara honestly, it cant be something nice to see or hear about. I wonder what Carol thinks about that. I hope I get to spend more time with her tomorrow to talk about it.
 
 **23:04** Today maicah was talking about apogee when refering to my technical drawing of the parawing. I have no fucking clue what he is evern talking about? apogee of what????
+
+## Friday, 6 November 2026 · 4/5
+
+**12:36** yesterday was amazing, my ring and fitbit air adapter arrived from china, the ring looks amazing and the adapter is stunning and works perfectly. All i have to do is make the mechanism a little bit smaller so it slides in well with the original band, but that's it. It's AMAZING. I love it, I can't wait to begin selling things.
