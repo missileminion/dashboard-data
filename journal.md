@@ -27,3 +27,7 @@
 ## Friday, 6 November 2026 · 4/5
 
 **12:36** yesterday was amazing, my ring and fitbit air adapter arrived from china, the ring looks amazing and the adapter is stunning and works perfectly. All i have to do is make the mechanism a little bit smaller so it slides in well with the original band, but that's it. It's AMAZING. I love it, I can't wait to begin selling things.
+
+## Monday, 9 November 2026 · 4/5
+
+**19:01** Not bad can't complain. Today we are doing linear algebra for MATLAB. Im bummed that I have to retake chemistry but oh well that sucks.
