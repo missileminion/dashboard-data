@@ -171,6 +171,15 @@
    "weight": 115,
    "reps": 7,
    "sets": 3
+  },
+  {
+   "id": 1795215055228,
+   "date": "2026-11-20",
+   "day": "Pull",
+   "exercise": "Bayesian cable curl",
+   "weight": 12.5,
+   "reps": 8,
+   "sets": 3
   }
  ],
  "deleted": [
