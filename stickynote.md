@@ -1,2 +1,2 @@
 heat form the sonos ace covers
-- [ ] complete
+- [x] complete
